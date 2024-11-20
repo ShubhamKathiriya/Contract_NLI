@@ -1,0 +1,5764 @@
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [84, 85, 86, 87]}
+```
+ ```json
+{"choice": "Entailment", "spans": [45, 46, 47]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [25, 26, 27, 28, 29, 30, 31, 32, 33, 34]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [76, 77]}
+```
+ ```json
+{"choice": "Entailment", "spans": [63, 67]}
+```
+ ```json
+{"choice": "Entailment", "spans": [61, 87, 88]}
+```
+ ```json
+{"choice": "Entailment", "spans": [25, 27, 28, 29, 30, 31, 32, 33, 34]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [37, 38]}
+```
+ ```json
+{"choice": "Entailment", "spans": [59]}
+```
+ ```json
+{"choice": "Entailment", "spans": [71, 72]}
+```
+ ```json
+{"choice": "Entailment", "spans": [63, 66]}
+```
+ ```json
+{"choice": "Entailment", "spans": [37, 38]}
+```
+ ```json
+{"choice": "Entailment", "spans": [44, 53]}
+```
+ ```json
+{"choice": "Entailment", "spans": [24]}
+```
+ ```json
+{"choice": "Entailment", "spans": [45]}
+```
+ ```json
+{"choice": "Entailment", "spans": [55, 57]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [15, 18]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [15, 16, 17]}
+```
+ ```json
+{"choice": "Entailment", "spans": [27, 28, 86]}
+```
+ ```json
+{"choice": "Entailment", "spans": [33, 37, 64, 65]}
+```
+ ```json
+{"choice": "Entailment", "spans": [45]}
+```
+ ```json
+{"choice": "Entailment", "spans": [15]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [15, 23]}
+```
+ ```json
+{"choice": "Entailment", "spans": [15, 44]}
+```
+ ```json
+{"choice": "Entailment", "spans": [48]}
+```
+ ```json
+{"choice": "Entailment", "spans": [33, 36, 64]}
+```
+ ```json
+{"choice": "Entailment", "spans": [15, 22]}
+```
+ ```json
+{"choice": "Entailment", "spans": [20]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [12]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [11]}
+```
+ ```json
+{"choice": "Entailment", "spans": [7]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [6]}
+```
+ ```json
+{"choice": "Entailment", "spans": [12]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [5]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [9]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [5, 6, 7, 8]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [5, 6]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [3, 6, 7, 8, 13]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [21]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [6]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [32]}
+```
+ ```json
+{"choice": "Entailment", "spans": [29]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [12]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [33]}
+```
+ ```json
+{"choice": "Entailment", "spans": [14, 18]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [32]}
+```
+ ```json
+{"choice": "Entailment", "spans": [12]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [21]}
+```
+ ```json
+{"choice": "Entailment", "spans": [23]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [14, 16]}
+```
+ ```json
+{"choice": "Entailment", "spans": [21]}
+```
+ ```json
+{"choice": "Entailment", "spans": [20]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [7]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [10]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [10]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json..............................,.....,,...........a.........]...............].].a.]]].,,
+....].
+..,.
+.
+ ```json
+{"choice":........,....................,,.....,,,..........a.],.......]]..............].].,,]].,,a....].
+.,
+ ```json
+{".............................,......,,...........a.........]...............].].,,]].,,
+....].
+.,,,
+ ```json
+{"choice": "Contradiction", "spa.......,........ut......ate..a.,,.....,,,..........a.],......].]..,...........].ate,,]]].,,ap..
+ ```json
+{"choice":........_
+...................,.,....,,,..........ate..........,.............]..].ate of.].,,ates....].
+.
+
+ ```json
+{"choice":........_
+...................,.,....,,,..........a.],......]]]..............].].,].]].ates.,ates....].
+.]
+ ```json
+{"choice": "Entail.............................,......,,...........ate.],......].]..............].].,,]]].,,a....].
+```json........_
+....................,......,...........a.]......].].............]..].a.]]..,
+....]....,.
+..
+ ```json
+{"choice": "Entailment",.......]
+....at...ut.........a.,,....ates,,,..........a.],......]]].............].].].ate.]]].,,ates....
+ ```json
+{"choice.............................,......,,,..........a.],.......]]..............].].,,]]]..,a....]....,
+ ```json
+{"choice": "Entailment", "spans": [18, 26, 27, 28, 29, 36]}
+```
+ ```json
+{"choice":........_
+...................,.,....,,,..........ate.],......].]..............].].,,]]..,,ates....]....
+ ```json
+{"choice": "Entailment", "spans": [24, 28, 30]}
+```
+ ```json
+{"choice........,....................,......,,,..........a.],.......]]..............].].a.]]..,,ates....].
+.]
+
+ ```json
+.....................................,...........a..........................]..,]]...,...........,.
+ ```json
+{"choice": "Entailment", "spans": [15, 17]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [24, 26]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [29, 30]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [24, 26]}
+```
+ ```json
+{"choice": "Entailment", "spans": [23]}
+```
+ ```json
+{"choice": "Entailment", "spans": [27, 39]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [24, 25]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [24, 25]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [24, 25, 29, 39]}
+```
+ ```json
+{"choice": "Entailment", "spans": [24, 28]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [48, 49, 50]}
+```
+ ```json
+{"choice": "Entailment", "spans": [20, 21]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [23]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [62, 63]}
+```
+ ```json
+{"choice": "Entailment", "spans": [24, 28]}
+```
+ ```json
+{"choice": "Entailment", "spans": [43, 45]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 38]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [37, 39]}
+```
+ ```json
+{"choice": "Entailment", "spans": [24, 27]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 37, 38]}
+```
+ ```json
+{"choice": "Entailment", "spans": [31, 33]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [29, 31]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [12]}
+```
+ ```json
+{"choice": "Entailment", "spans": [64]}
+```
+ ```json
+{"choice": "Entailment", "spans": [23, 27]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [33]}
+```
+ ```json
+{"choice": "Entailment", "spans": [12]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [16, 17]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 20]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [23, 26]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 19]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 18]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [62]}
+```
+ ```json
+{"choice": "Entailment", "spans": [30, 91]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [77, 78, 79]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [83, 84, 85]}
+```
+ ```json
+{"choice": "Entailment", "spans": [29]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [35, 36, 38, 37, 38, 46]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [43, 46]}
+```
+ ```json
+{"choice": "Entailment", "spans": [53, 54, 55]}
+```
+ ```json
+{"choice": "Entailment", "spans": [47, 51]}
+```
+ ```json
+{"choice": "Entailment", "spans": [35, 36, 38, 46]}
+```
+ ```json
+{"choice": "Entailment", "spans": [43, 45]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [25]}
+```
+ ```json
+{"choice": "Entailment", "spans": [34, 39, 41]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [11, 12, 13]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [26]}
+```
+ ```json
+{"choice": "Entailment", "spans": [48, 52]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [55, 56, 57, 58]}
+```
+ ```json
+{"choice": "Entailment", "spans": [11, 12]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [17, 30]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [34, 42]}
+```
+ ```json
+{"choice": "Entailment", "spans": [48, 50]}
+```
+ ```json
+{"choice": "Entailment", "spans": [30]}
+```
+ ```json
+{"choice": "Entailment", "spans": [23]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [42, 43]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [47]}
+```
+ ```json
+{"choice": "Entailment", "spans": [25, 29]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [39]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [32, 34]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [32, 36]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [25, 28]}
+```
+ ```json
+{"choice": "Entailment", "spans": [32, 34]}
+```
+ ```json
+{"choice": "Entailment", "spans": [32, 35]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [32, 46]}
+```
+ ```json
+{"choice": "Entailment", "spans": [39]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [55]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [52]}
+```
+ ```json
+{"choice": "Entailment", "spans": [24]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [36, 37]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [34]}
+```
+ ```json
+{"choice": "Entailment", "spans": [42]}
+```
+ ```json
+{"choice": "Entailment", "spans": [48, 50]}
+```
+ ```json
+{"choice": "Entailment", "spans": [36, 37]}
+```
+ ```json
+{"choice": "Entailment", "spans": [30, 45]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [13, 16]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [10]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [9, 10]}
+```
+ ```json
+{"choice": "Entailment", "spans": [8]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [58]}
+```
+ ```json
+{"choice": "Entailment", "spans": [15, 17]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [15, 18, 19, 20]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [64]}
+```
+ ```json
+{"choice": "Entailment", "spans": [45, 49]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [40]}
+```
+ ```json
+{"choice": "Entailment", "spans": [15]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [26, 38, 42]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [33, 36, 37]}
+```
+ ```json
+{"choice": "Entailment", "spans": [52, 56]}
+```
+ ```json
+{"choice": "Entailment", "spans": [45, 48]}
+```
+ ```json
+{"choice": "Entailment", "spans": [26, 38]}
+```
+ ```json
+{"choice": "Entailment", "spans": [33, 35]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [57]}
+```
+ ```json
+{"choice": "Entailment", "spans": [70, 71]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [18, 19]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [29]}
+```
+ ```json
+{"choice": "Entailment", "spans": [81]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [65, 66]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [23, 24, 25, 26, 27]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [100]}
+```
+ ```json
+{"choice": "Entailment", "spans": [59, 62]}
+```
+ ```json
+{"choice": "Entailment", "spans": [23, 31]}
+```
+ ```json
+{"choice": "Entailment", "spans": [27, 28, 68]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [12, 13]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [12, 14]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [12, 14]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [15, 18]}
+```
+ ```json
+{"choice": "Entailment", "spans": [15, 17]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [28]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [13, 14, 15, 16]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [13, 14, 15]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [28]}
+```
+ ```json
+{"choice": "Entailment", "spans": [13, 17]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [19, 23]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [18]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [19, 23]}
+```
+ ```json
+{"choice": "Entailment", "spans": [18]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [91]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [21, 22, 23]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [21, 22, 23]}
+```
+ ```json
+{"choice": "Entailment", "spans": [57, 58, 59]}
+```
+ ```json
+{"choice": "Entailment", "spans": [25, 26, 30]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [74, 75]}
+```
+ ```json
+{"choice": "Entailment", "spans": [44, 45]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [54]}
+```
+ ```json
+{"choice": "Entailment", "spans": [25, 29]}
+```
+ ```json
+{"choice": "Entailment", "spans": [18, 44, 45]}
+```
+ ```json
+{"choice": "Entailment", "spans": [34, 36, 61]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [29, 37]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [13]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [35]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [18, 21]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [23, 25]}
+```
+ ```json
+{"choice": "Entailment", "spans": [41, 45]}
+```
+ ```json
+{"choice": "Entailment", "spans": [18, 21]}
+```
+ ```json
+{"choice": "Entailment", "spans": [18, 19, 20]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [27, 28, 30]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [18]}
+```
+ ```json
+{"choice": "Entailment", "spans": [18]}
+```
+ ```json
+{"choice": "Entailment", "spans": [54]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [18]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [49]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [69]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [19, 21]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [37]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [21]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [8]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [21]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [20]}
+```
+ ```json
+{"choice": "Entailment", "spans": [7]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [9]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [6, 7]}
+```
+ ```json
+{"choice": "Entailment", "spans": [20]}
+```
+ ```json
+{"choice": "Entailment", "spans": [9, 11]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [18]}
+```
+ ```json
+{"choice": "Entailment", "spans": [5, 7]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [16]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [17]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [9, 12]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16]}
+```
+ ```json
+{"choice": "Entailment", "spans": [17]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [51, 52, 53]}
+```
+ ```json
+{"choice": "Entailment", "spans": [15, 59]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [31]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [27, 41, 42, 45]}
+```
+ ```json
+{"choice": "Entailment", "spans": [27, 29]}
+```
+ ```json
+{"choice": "Entailment", "spans": [37, 38]}
+```
+ ```json
+{"choice": "Entailment", "spans": [32, 35]}
+```
+ ```json
+{"choice": "Entailment", "spans": [27, 41, 45, 46]}
+```
+ ```json
+{"choice": "Entailment", "spans": [27, 28]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [14]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [25]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [15]}
+```
+ ```json
+{"choice": "Entailment", "spans": [9]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [12]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [12]}
+```
+ ```json
+{"choice": "Entailment", "spans": [11]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [17]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [15]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [25, 29]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [15]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [23]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [25, 28]}
+```
+ ```json
+{"choice": "Entailment", "spans": [23]}
+```
+ ```json
+{"choice": "Entailment", "spans": [21]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [21, 31, 32, 33]}
+```
+ ```json
+{"choice": "Entailment", "spans": [42, 43]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [7, 10, 11, 12, 13, 14]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [31, 32, 33]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [37]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [17, 23]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [52, 53, 54]}
+```
+ ```json
+{"choice": "Entailment", "spans": [15, 60]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [32]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [28, 42, 43, 46]}
+```
+ ```json
+{"choice": "Entailment", "spans": [28, 30]}
+```
+ ```json
+{"choice": "Entailment", "spans": [38, 39, 40]}
+```
+ ```json
+{"choice": "Entailment", "spans": [33, 36]}
+```
+ ```json
+{"choice": "Entailment", "spans": [28, 42, 46]}
+```
+ ```json
+{"choice": "Entailment", "spans": [28, 29]}
+```
+ ```json
+{"choice": "Entailment", "spans": [56]}
+```
+ ```json
+{"choice": "Entailment", "spans": [59]}
+```
+ ```json
+{"choice": "Entailment", "spans": [54, 55]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [37, 38]}
+```
+ ```json
+{"choice": "Entailment", "spans": [35]}
+```
+ ```json
+{"choice": "Entailment", "spans": [57, 58]}
+```
+ ```json
+{"choice": "Entailment", "spans": [39, 42]}
+```
+ ```json
+{"choice": "Entailment", "spans": [60]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [48]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [56]}
+```
+ ```json
+{"choice": "Entailment", "spans": [49, 50]}
+```
+ ```json
+{"choice": "Entailment", "spans": [39, 43]}
+```
+ ```json
+{"choice": "Entailment", "spans": [48]}
+```
+ ```json
+{"choice": "Entailment", "spans": [45, 46]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [12, 16]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [6]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [37]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [23, 25, 27]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [18, 20]}
+```
+ ```json
+{"choice": "Entailment", "spans": [12, 13, 23, 25]}
+```
+ ```json
+{"choice": "Entailment", "spans": [12, 14]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [38]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [13]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [7, 27]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [10]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 20]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [27, 28]}
+```
+ ```json
+{"choice": "Entailment", "spans": [10]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [13]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [13]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 23, 24]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 21]}
+```
+ ```json
+{"choice": "Entailment", "spans": [13]}
+```
+ ```json
+{"choice": "Entailment", "spans": [13]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [71, 72]}
+```
+ ```json
+{"choice": "Entailment", "spans": [91]}
+```
+ ```json
+{"choice": "Entailment", "spans": [45, 46, 47]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [25, 26, 29, 30]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [75, 99]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [73]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [38, 39, 40]}
+```
+ ```json
+{"choice": "Entailment", "spans": [52]}
+```
+ ```json
+{"choice": "Entailment", "spans": [65, 68, 69]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [38, 39, 40]}
+```
+ ```json
+{"choice": "Entailment", "spans": [34, 51]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [99]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [67, 72]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [68, 73]}
+```
+ ```json
+{"choice": "Entailment", "spans": [15]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [29, 39]}
+```
+ ```json
+{"choice": "Entailment", "spans": [41]}
+```
+ ```json
+{"choice": "Entailment", "spans": [51]}
+```
+ ```json
+{"choice": "Entailment", "spans": [15, 19]}
+```
+ ```json
+{"choice": "Entailment", "spans": [29, 39]}
+```
+ ```json
+{"choice": "Entailment", "spans": [35, 39]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [37, 46, 47]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [25]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [39, 49, 50, 51]}
+```
+ ```json
+{"choice": "Entailment", "spans": [39, 44]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [37]}
+```
+ ```json
+{"choice": "Entailment", "spans": [25]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [29, 31, 32, 33, 34, 35]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [36]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [39, 42]}
+```
+ ```json
+{"choice": "Entailment", "spans": [29, 31]}
+```
+ ```json
+{"choice": "Entailment", "spans": [29, 33, 34]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [24, 34]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [9]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [26]}
+```
+ ```json
+{"choice": "Entailment", "spans": [9]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [13, 17]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [13, 16]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [13, 18]}
+```
+ ```json
+{"choice": "Entailment", "spans": [13, 19, 20, 21, 22]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [17, 18]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [26]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [17, 18]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [6, 11]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [11]}
+```
+ ```json
+{"choice": "Entailment", "spans": [14, 15]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [6, 11]}
+```
+ ```json
+{"choice": "Entailment", "spans": [10]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [25, 54]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [10]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [12, 15]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [10]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [23]}
+```
+ ```json
+{"choice": "Entailment", "spans": [24]}
+```
+ ```json
+{"choice": "Entailment", "spans": [50]}
+```
+ ```json
+{"choice": "Entailment", "spans": [12, 16]}
+```
+ ```json
+{"choice": "Entailment", "spans": [23]}
+```
+ ```json
+{"choice": "Entailment", "spans": [17, 49]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [22]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [18]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [22, 23, 24]}
+```
+ ```json
+{"choice": "Entailment", "spans": [30]}
+```
+ ```json
+{"choice": "Entailment", "spans": [17]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [20]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [27]}
+```
+ ```json
+{"choice": "Entailment", "spans": [23, 26]}
+```
+ ```json
+{"choice": "Entailment", "spans": [20]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [19]}
+```
+ ```json
+{"choice": "Entailment", "spans": [26]}
+```
+ ```json
+{"choice": "Entailment", "spans": [18]}
+```
+ ```json
+{"choice": "Entailment", "spans": [33]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [7]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [28]}
+```
+ ```json
+{"choice": "Entailment", "spans": [8, 12]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [26]}
+```
+ ```json
+{"choice": "Entailment", "spans": [4]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [5]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [22]}
+```
+ ```json
+{"choice": "Entailment", "spans": [8, 11]}
+```
+ ```json
+{"choice": "Entailment", "spans": [5]}
+```
+ ```json
+{"choice": "Entailment", "spans": [4]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 21, 22, 23, 35]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [31]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [30]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [24]}
+```
+ ```json
+{"choice": "Entailment", "spans": [34]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [34]}
+```
+ ```json
+{"choice": "Entailment", "spans": [29]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [15, 19]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [28]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [14]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [15, 18]}
+```
+ ```json
+{"choice": "Entailment", "spans": [11, 14]}
+```
+ ```json
+{"choice": "Entailment", "spans": [12, 30]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [45]}
+```
+ ```json
+{"choice": "Entailment", "spans": [22, 24]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [22, 23]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [58]}
+```
+ ```json
+{"choice": "Entailment", "spans": [25, 29]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [32, 39]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [37]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [41]}
+```
+ ```json
+{"choice": "Entailment", "spans": [25, 28]}
+```
+ ```json
+{"choice": "Entailment", "spans": [37]}
+```
+ ```json
+{"choice": "Entailment", "spans": [32, 36]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [11]}
+```
+ ```json
+{"choice": "Entailment", "spans": [18]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [11]}
+```
+ ```json
+{"choice": "Entailment", "spans": [8]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [20]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [10, 12]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [10, 13]}
+```
+ ```json
+{"choice": "Entailment", "spans": [7, 10, 12, 13, 14, 20]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [21, 31, 32, 33]}
+```
+ ```json
+{"choice": "Entailment", "spans": [42, 43]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [7, 10, 11, 12, 13, 14]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [31, 32, 33]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [37]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [17, 23]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [21, 22, 23]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 19]}
+```
+ ```json
+{"choice": "Entailment", "spans": [29]}
+```
+ ```json
+{"choice": "Entailment", "spans": [14]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [14, 24]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [25]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 20]}
+```
+ ```json
+{"choice": "Entailment", "spans": [15]}
+```
+ ```json
+{"choice": "Entailment", "spans": [21, 22, 23]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [15, 16]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [8]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [9]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [14]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [12]}
+```
+ ```json
+{"choice": "Entailment", "spans": [13]}
+```
+ ```json
+{"choice": "Entailment", "spans": [19, 23]}
+```
+ ```json
+{"choice": "Entailment", "spans": [19, 21]}
+```
+ ```json
+{"choice": "Entailment", "spans": [12]}
+```
+ ```json
+{"choice": "Entailment", "spans": [10]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [31]}
+```
+ ```json
+{"choice": "Entailment", "spans": [37]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 31, 32, 33, 34, 35, 
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [41]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 20]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [33]}
+```
+ ```json
+{"choice": "Entailment", "spans": [13]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [21]}
+```
+ ```json
+{"choice": "Entailment", "spans": [24, 28]}
+```
+ ```json
+{"choice": "Entailment", "spans": [32]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 20]}
+```
+ ```json
+{"choice": "Entailment", "spans": [21, 29]}
+```
+ ```json
+{"choice": "Entailment", "spans": [24, 27]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [51]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [8, 9, 10, 11, 12]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [47, 48, 49]}
+```
+ ```json
+{"choice": "Entailment", "spans": [38, 42]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [9, 12]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [24, 25, 26, 27]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [16, 18]}
+```
+ ```json
+{"choice": "Entailment", "spans": [22, 32, 33]}
+```
+ ```json
+{"choice": "Entailment", "spans": [38, 41]}
+```
+ ```json
+{"choice": "Entailment", "spans": [24, 25, 26, 27]}
+```
+ ```json
+{"choice": "Entailment", "spans": [15]}
+```
+ ```json
+{"choice": "Entailment", "spans": [11, 15]}
+```
+ ```json
+{"choice": "Entailment", "spans": [25]}
+```
+ ```json
+{"choice": "Entailment", "spans": [19, 22, 23]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [19, 23]}
+```
+ ```json
+{"choice": "Entailment", "spans": [25]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [17]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [11, 15]}
+```
+ ```json
+{"choice": "Entailment", "spans": [24]}
+```
+ ```json
+{"choice": "Entailment", "spans": [19, 22]}
+```
+ ```json
+{"choice": "Entailment", "spans": [11, 16]}
+```
+ ```json
+{"choice": "Entailment", "spans": [11, 14]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [17]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [5]}
+```
+ ```json
+{"choice": "Entailment", "spans": [5]}
+```
+ ```json
+{"choice": "Entailment", "spans": [19]}
+```
+ ```json
+{"choice": "Entailment", "spans": [6, 7, 10]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [23, 24]}
+```
+ ```json
+{"choice": "Entailment", "spans": [5, 6, 7]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [14]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [15]}
+```
+ ```json
+{"choice": "Entailment", "spans": [6, 11]}
+```
+ ```json
+{"choice": "Entailment", "spans": [14]}
+```
+ ```json
+{"choice": "Entailment", "spans": [13]}
+```
+ ```json
+{"choice": "Entailment", "spans": [23]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [38]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [9]}
+```
+ ```json
+{"choice": "Entailment", "spans": [9, 10]}
+```
+ ```json
+{"choice": "Entailment", "spans": [40]}
+```
+ ```json
+{"choice": "Entailment", "spans": [12, 17]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [36]}
+```
+ ```json
+{"choice": "Entailment", "spans": [10]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [21]}
+```
+ ```json
+{"choice": "Entailment", "spans": [22]}
+```
+ ```json
+{"choice": "Entailment", "spans": [12, 18]}
+```
+ ```json
+{"choice": "Entailment", "spans": [12, 16]}
+```
+ ```json
+{"choice": "Entailment", "spans": [27]}
+```
+ ```json
+{"choice": "Entailment", "spans": [20]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [35, 36]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [25, 27]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [38]}
+```
+ ```json
+{"choice": "Entailment", "spans": [14]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [18, 21]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [18, 19]}
+```
+ ```json
+{"choice": "Entailment", "spans": [25, 29]}
+```
+ ```json
+{"choice": "Entailment", "spans": [25, 28]}
+```
+ ```json
+{"choice": "Entailment", "spans": [18, 21]}
+```
+ ```json
+{"choice": "Entailment", "spans": [18, 20]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [26]}
+```
+ ```json
+{"choice": "Entailment", "spans": [32]}
+```
+ ```json
+{"choice": "Entailment", "spans": [40]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [7, 8, 9]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [11, 15, 21, 22, 23, 24, 25]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [26]}
+```
+ ```json
+{"choice": "Entailment", "spans": [7, 9]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [6]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [11, 18]}
+```
+ ```json
+{"choice": "Entailment", "spans": [11, 20, 21, 22, 23, 24]}
+```
+ ```json
+{"choice": "Entailment", "spans": [6]}
+```
+ ```json
+{"choice": "Entailment", "spans": [6]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [38, 40]}
+```
+ ```json
+{"choice": "Entailment", "spans": [34]}
+```
+ ```json
+{"choice": "Entailment", "spans": [19]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [7, 8, 9]}
+```
+ ```json
+{"choice": "Entailment", "spans": [10]}
+```
+ ```json
+{"choice": "Entailment", "spans": [39]}
+```
+ ```json
+{"choice": "Entailment", "spans": [27, 30]}
+```
+ ```json
+{"choice": "Entailment", "spans": [40]}
+```
+ ```json
+{"choice": "Entailment", "spans": [7]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [7, 12, 13]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [20, 25]}
+```
+ ```json
+{"choice": "Entailment", "spans": [27, 31]}
+```
+ ```json
+{"choice": "Entailment", "spans": [7, 12, 13]}
+```
+ ```json
+{"choice": "Entailment", "spans": [12, 14]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [52]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [14, 15, 16, 17]}
+```
+ ```json
+{"choice": "Entailment", "spans": [49, 50, 51, 52, 53]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [14, 15, 16, 17]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [30, 32, 33, 34, 35]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [32, 37]}
+```
+ ```json
+{"choice": "Entailment", "spans": [32, 35]}
+```
+ ```json
+{"choice": "Entailment", "spans": [30]}
+```
+ ```json
+{"choice": "Entailment", "spans": [26, 29]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [30]}
+```
+ ```json
+{"choice": "Entailment", "spans": [8, 29, 47]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [6]}
+```
+ ```json
+{"choice": "Entailment", "spans": [7]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [35]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [30]}
+```
+ ```json
+{"choice": "Entailment", "spans": [11]}
+```
+ ```json
+{"choice": "Entailment", "spans": [36]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [11, 12, 14, 20]}
+```
+ ```json
+{"choice": "Entailment", "spans": [11, 15]}
+```
+ ```json
+{"choice": "Entailment", "spans": [18, 33]}
+```
+ ```json
+{"choice": "Entailment", "spans": [35]}
+```
+ ```json
+{"choice": "Entailment", "spans": [5, 14]}
+```
+ ```json
+{"choice": "Entailment", "spans": [21, 22]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [10, 14, 15]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [10, 12]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [10, 16]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [10, 15, 21]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [10, 11, 12, 15, 21]}
+```
+ ```json
+{"choice": "Entailment", "spans": [21, 24]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [81]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [20, 21, 22]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [66]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [89, 90, 92]}
+```
+ ```json
+{"choice": "Entailment", "spans": [20]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [18, 20, 70, 72]}
+```
+ ```json
+{"choice": "Entailment", "spans": [35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 51, 52, 53, 54]}
+```
+ ```json
+{"choice": "Entailment", "spans": [78]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [18, 19, 70, 71]}
+```
+ ```json
+{"choice": "Entailment", "spans": [51, 54]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [54]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [65, 66]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [51]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [49]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [46]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [25]}
+```
+ ```json
+{"choice": "Entailment", "spans": [24]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [26]}
+```
+ ```json
+{"choice": "Entailment", "spans": [13, 14]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [25]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [19]}
+```
+ ```json
+{"choice": "Entailment", "spans": [22]}
+```
+ ```json
+{"choice": "Entailment", "spans": [28]}
+```
+ ```json
+{"choice": "Entailment", "spans": [13, 16]}
+```
+ ```json
+{"choice": "Entailment", "spans": [19]}
+```
+ ```json
+{"choice": "Entailment", "spans": [23]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [12, 15, 16, 17]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [9, 10, 11]}
+```
+ ```json
+{"choice": "Entailment", "spans": [14]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [33, 34]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [7]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [7]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 20]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [25, 27]}
+```
+ ```json
+{"choice": "Entailment", "spans": [7]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [10]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [14]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 21, 22]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 19]}
+```
+ ```json
+{"choice": "Entailment", "spans": [10]}
+```
+ ```json
+{"choice": "Entailment", "spans": [12]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [37, 39]}
+```
+ ```json
+{"choice": "Entailment", "spans": [44, 47, 51]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [19]}
+```
+ ```json
+{"choice": "Entailment", "spans": [14, 16]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [39]}
+```
+ ```json
+{"choice": "Entailment", "spans": [14, 18]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [23, 28]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [23, 26]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [18, 40, 50]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [10, 11, 12]}
+```
+ ```json
+{"choice": "Entailment", "spans": [57]}
+```
+ ```json
+{"choice": "Entailment", "spans": [35, 39]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [40]}
+```
+ ```json
+{"choice": "Entailment", "spans": [10, 11, 12]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 21, 22]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [30, 35, 36, 37]}
+```
+ ```json
+{"choice": "Entailment", "spans": [30, 33]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 22]}
+```
+ ```json
+{"choice": "Entailment", "spans": [15, 19]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [10, 11]}
+```
+ ```json
+{"choice": "Entailment", "spans": [26]}
+```
+ ```json
+{"choice": "Entailment", "spans": [13, 18]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [24]}
+```
+ ```json
+{"choice": "Entailment", "spans": [10, 11]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [21]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [23]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [13, 16]}
+```
+ ```json
+{"choice": "Entailment", "spans": [21]}
+```
+ ```json
+{"choice": "Entailment", "spans": [23]}
+```
+ ```json
+{"choice": "Entailment", "spans": [35]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [17, 18]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [10]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [11]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [16]}
+```
+ ```json
+{"choice": "Entailment", "spans": [8]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [14]}
+```
+ ```json
+{"choice": "Entailment", "spans": [15]}
+```
+ ```json
+{"choice": "Entailment", "spans": [25]}
+```
+ ```json
+{"choice": "Entailment", "spans": [11, 17, 18, 21, 23]}
+```
+ ```json
+{"choice": "Entailment", "spans": [14]}
+```
+ ```json
+{"choice": "Entailment", "spans": [12]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [79]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [29]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [28, 29]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [36]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [13, 15]}
+```
+ ```json
+{"choice": "Entailment", "spans": [34]}
+```
+ ```json
+{"choice": "Entailment", "spans": [11]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [27, 28]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [13, 18]}
+```
+ ```json
+{"choice": "Entailment", "spans": [13, 16]}
+```
+ ```json
+{"choice": "Entailment", "spans": [27]}
+```
+ ```json
+{"choice": "Entailment", "spans": [23, 24]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [26, 27]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [12]}
+```
+ ```json
+{"choice": "Entailment", "spans": [9]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [17, 21]}
+```
+ ```json
+{"choice": "Entailment", "spans": [25]}
+```
+ ```json
+{"choice": "Entailment", "spans": [8, 13]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [15]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [14]}
+```
+ ```json
+{"choice": "Entailment", "spans": [17, 22]}
+```
+ ```json
+{"choice": "Entailment", "spans": [17, 19]}
+```
+ ```json
+{"choice": "Entailment", "spans": [15]}
+```
+ ```json
+{"choice": "Entailment", "spans": [14, 26]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [36, 58, 59, 60]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [19]}
+```
+ ```json
+{"choice": "Entailment", "spans": [29, 34, 44]}
+```
+ ```json
+{"choice": "Entailment", "spans": [70]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [54]}
+```
+ ```json
+{"choice": "Entailment", "spans": [38, 39]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [46]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [50]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [46]}
+```
+ ```json
+{"choice": "Entailment", "spans": [45, 48]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [50]}
+```
+ ```json
+{"choice": "Entailment", "spans": [36, 37]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [5, 11]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [45]}
+```
+ ```json
+{"choice": "Entailment", "spans": [12, 27]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [5, 6, 11]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [33]}
+```
+ ```json
+{"choice": "Entailment", "spans": [12, 23, 26]}
+```
+ ```json
+{"choice": "Entailment", "spans": [18, 19, 20, 21]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [6]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [13]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [14]}
+```
+ ```json
+{"choice": "Entailment", "spans": [6, 10]}
+```
+ ```json
+{"choice": "Entailment", "spans": [13]}
+```
+ ```json
+{"choice": "Entailment", "spans": [5]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [9]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [6]}
+```
+ ```json
+{"choice": "Entailment", "spans": [30]}
+```
+ ```json
+{"choice": "Entailment", "spans": [13, 17, 23, 24]}
+```
+ ```json
+{"choice": "Entailment", "spans": [20]}
+```
+ ```json
+{"choice": "Entailment", "spans": [5]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [7, 12]}
+```
+ ```json
+{"choice": "Entailment", "spans": [19]}
+```
+ ```json
+{"choice": "Entailment", "spans": [22]}
+```
+ ```json
+{"choice": "Entailment", "spans": [13, 16]}
+```
+ ```json
+{"choice": "Entailment", "spans": [12]}
+```
+ ```json
+{"choice": "Entailment", "spans": [11, 12]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [37, 38, 39, 58, 59, 88]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [74, 76, 86]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [34]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [13]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [14, 17]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [37]}
+```
+ ```json
+{"choice": "Entailment", "spans": [13]}
+```
+ ```json
+{"choice": "Entailment", "spans": [42, 43, 44, 45]}
+```
+ ```json
+{"choice": "Entailment", "spans": [11, 21]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [25, 26]}
+```
+ ```json
+{"choice": "Entailment", "spans": [14, 16]}
+```
+ ```json
+{"choice": "Entailment", "spans": [20, 21]}
+```
+ ```json
+{"choice": "Entailment", "spans": [19, 20, 23]}
+```
+ ```json
+{"choice": "Entailment", "spans": [8, 13]}
+```
+ ```json
+{"choice": "Entailment", "spans": [29, 30, 31]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 17, 18, 19, 20, 27]}
+```
+ ```json
+{"choice": "Entailment", "spans": [36]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [1]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [3, 4, 5]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 17, 18, 19, 20]}
+```
+ ```json
+{"choice": "Entailment", "spans": [21, 24]}
+```
+ ```json
+{"choice": "Entailment", "spans": [29, 30, 31]}
+```
+ ```json
+{"choice": "Entailment", "spans": [3, 4, 5]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [8, 10, 14]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [18, 19, 20, 23, 24]}
+```
+ ```json
+{"choice": "Entailment", "spans": [25]}
+```
+ ```json
+{"choice": "Entailment", "spans": [2, 25]}
+```
+ ```json
+{"choice": "Entailment", "spans": [8, 14]}
+```
+ ```json
+{"choice": "Entailment", "spans": [8, 11]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [19]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [16]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [54]}
+```
+ ```json
+{"choice": "Entailment", "spans": [54]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [16, 17, 18, 19, 23]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [25, 26, 27, 28]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [54]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [43, 48]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [27, 28]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [51]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [33]}
+```
+ ```json
+{"choice": "Entailment", "spans": [26]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [7, 8, 14]}
+```
+ ```json
+{"choice": "Entailment", "spans": [32]}
+```
+ ```json
+{"choice": "Entailment", "spans": [18, 22]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [33]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [11]}
+```
+ ```json
+{"choice": "Entailment", "spans": [13]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [18, 20, 21, 22]}
+```
+ ```json
+{"choice": "Entailment", "spans": [13]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [36, 37, 38]}
+```
+ ```json
+{"choice": "Entailment", "spans": [31, 35, 45]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [7, 9, 13, 14, 19]}
+```
+ ```json
+{"choice": "Entailment", "spans": [25, 35]}
+```
+ ```json
+{"choice": "Entailment", "spans": [24, 28]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [17]}
+```
+ ```json
+{"choice": "Entailment", "spans": [18, 19]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [24, 26]}
+```
+ ```json
+{"choice": "Entailment", "spans": [17, 18]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [69]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [14, 15, 16, 17]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [22, 23, 24]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [18]}
+```
+ ```json
+{"choice": "Entailment", "spans": [40]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 17]}
+```
+ ```json
+{"choice": "Entailment", "spans": [23, 24, 26]}
+```
+ ```json
+{"choice": "Entailment", "spans": [18, 19, 20]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [2]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [17]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [8]}
+```
+ ```json
+{"choice": "Entailment", "spans": [25]}
+```
+ ```json
+{"choice": "Entailment", "spans": [7]}
+```
+ ```json
+{"choice": "Entailment", "spans": [10, 15]}
+```
+ ```json
+{"choice": "Entailment", "spans": [8]}
+```
+ ```json
+{"choice": "Entailment", "spans": [6]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [37, 38, 39, 40, 48, 58, 59, 61, 62]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [74, 76, 84, 86]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [3]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [3]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [4]}
+```
+ ```json
+{"choice": "Entailment", "spans": [36]}
+```
+ ```json
+{"choice": "Entailment", "spans": [47]}
+```
+ ```json
+{"choice": "Entailment", "spans": [37, 39]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [48]}
+```
+ ```json
+{"choice": "Entailment", "spans": [29, 33, 42]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [22]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [27]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [29, 32]}
+```
+ ```json
+{"choice": "Entailment", "spans": [27]}
+```
+ ```json
+{"choice": "Entailment", "spans": [35]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [15]}
+```
+ ```json
+{"choice": "Entailment", "spans": [14]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [1]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [17]}
+```
+ ```json
+{"choice": "Entailment", "spans": [6, 11]}
+```
+ ```json
+{"choice": "Entailment", "spans": [17]}
+```
+ ```json
+{"choice": "Entailment", "spans": [17]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [4]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [12]}
+```
+ ```json
+{"choice": "Entailment", "spans": [6, 10]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [3]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [10]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [100]}
+```
+ ```json
+{"choice": "Entailment", "spans": [22]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [53, 54, 55, 56, 57, 58, 59, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 
+ ```json
+{"choice": "Entailment", "spans": [60, 64]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [101]}
+```
+ ```json
+{"choice": "Entailment", "spans": [8]}
+```
+ ```json
+{"choice": "Entailment", "spans": [18]}
+```
+ ```json
+{"choice": "Entailment", "spans": [48, 58]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [33]}
+```
+ ```json
+{"choice": "Entailment", "spans": [60, 63]}
+```
+ ```json
+{"choice": "Entailment", "spans": [48, 58]}
+```
+ ```json
+{"choice": "Entailment", "spans": [44, 47, 58]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [7, 44]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [22]}
+```
+ ```json
+{"choice": "Entailment", "spans": [40]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [39]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [28, 29]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [30, 35]}
+```
+ ```json
+{"choice": "Entailment", "spans": [23, 25]}
+```
+ ```json
+{"choice": "Entailment", "spans": [30, 33]}
+```
+ ```json
+{"choice": "Entailment", "spans": [30, 32]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [7, 16]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [7]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [22, 25, 27, 28]}
+```
+ ```json
+{"choice": "Entailment", "spans": [12]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [20]}
+```
+ ```json
+{"choice": "Entailment", "spans": [8, 11]}
+```
+ ```json
+{"choice": "Entailment", "spans": [12]}
+```
+ ```json
+{"choice": "Entailment", "spans": [14]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [29]}
+```
+ ```json
+{"choice": "Entailment", "spans": [9]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [6]}
+```
+ ```json
+{"choice": "Entailment", "spans": [6, 7, 8]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [22, 26]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [27]}
+```
+ ```json
+{"choice": "Entailment", "spans": [6, 8]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [15]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [16]}
+```
+ ```json
+{"choice": "Entailment", "spans": [17, 18, 19]}
+```
+ ```json
+{"choice": "Entailment", "spans": [22, 25]}
+```
+ ```json
+{"choice": "Entailment", "spans": [15]}
+```
+ ```json
+{"choice": "Entailment", "spans": [12, 14]}
+```
+ ```json
+{"choice": "Entailment", "spans": [19, 23]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [36, 37, 46, 47, 49]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [9]}
+```
+ ```json
+{"choice": "Entailment", "spans": [8]}
+```
+ ```json
+{"choice": "Entailment", "spans": [62]}
+```
+ ```json
+{"choice": "Entailment", "spans": [12, 16]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [32]}
+```
+ ```json
+{"choice": "Entailment", "spans": [9]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [19, 29]}
+```
+ ```json
+{"choice": "Entailment", "spans": [19, 22]}
+```
+ ```json
+{"choice": "Entailment", "spans": [24, 25]}
+```
+ ```json
+{"choice": "Entailment", "spans": [12, 15]}
+```
+ ```json
+{"choice": "Entailment", "spans": [29]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [28]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [7, 8, 9]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [7, 15]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [26]}
+```
+ ```json
+{"choice": "Entailment", "spans": [7]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [21]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [19]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16]}
+```
+ ```json
+{"choice": "Entailment", "spans": [10, 14]}
+```
+ ```json
+{"choice": "Entailment", "spans": [21]}
+```
+ ```json
+{"choice": "Entailment", "spans": [20]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [39, 40, 41]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [10, 11, 12, 13, 14, 15]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [44]}
+```
+ ```json
+{"choice": "Entailment", "spans": [32, 37]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [27, 28, 29]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [17, 18]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [32, 36]}
+```
+ ```json
+{"choice": "Entailment", "spans": [32, 34]}
+```
+ ```json
+{"choice": "Entailment", "spans": [17, 19]}
+```
+ ```json
+{"choice": "Entailment", "spans": [20, 24, 25]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [41]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [18]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [19, 22]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [49]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 18]}
+```
+ ```json
+{"choice": "Entailment", "spans": [54]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 26, 27]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [33, 34]}
+```
+ ```json
+{"choice": "Entailment", "spans": [19, 21]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 26, 27]}
+```
+ ```json
+{"choice": "Entailment", "spans": [25, 29]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [67]}
+```
+ ```json
+{"choice": "Entailment", "spans": [32, 33]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [12]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [65, 66]}
+```
+ ```json
+{"choice": "Entailment", "spans": [14, 24]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [67]}
+```
+ ```json
+{"choice": "Entailment", "spans": [11, 12]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [25, 29]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [58]}
+```
+ ```json
+{"choice": "Entailment", "spans": [14, 22]}
+```
+ ```json
+{"choice": "Entailment", "spans": [25, 29]}
+```
+ ```json
+{"choice": "Entailment", "spans": [25, 27]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [33]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [15]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [4]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [34]}
+```
+ ```json
+{"choice": "Entailment", "spans": [8, 12, 27]}
+```
+ ```json
+{"choice": "Entailment", "spans": [33]}
+```
+ ```json
+{"choice": "Entailment", "spans": [4]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [5, 15]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [29]}
+```
+ ```json
+{"choice": "Entailment", "spans": [8, 10]}
+```
+ ```json
+{"choice": "Entailment", "spans": [5, 15]}
+```
+ ```json
+{"choice": "Entailment", "spans": [15]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [31, 32, 33]}
+```
+ ```json
+{"choice": "Entailment", "spans": [26]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [35]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [31, 32, 33]}
+```
+ ```json
+{"choice": "Entailment", "spans": [8]}
+```
+ ```json
+{"choice": "Entailment", "spans": [56, 57, 58]}
+```
+ ```json
+{"choice": "Entailment", "spans": [15, 17]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [22]}
+```
+ ```json
+{"choice": "Entailment", "spans": [40, 42]}
+```
+ ```json
+{"choice": "Entailment", "spans": [15, 17]}
+```
+ ```json
+{"choice": "Entailment", "spans": [15, 16]}
+```
+ ```json
+{"choice": "Entailment", "spans": [24]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [32, 38]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [10]}
+```
+ ```json
+{"choice": "Entailment", "spans": [11]}
+```
+ ```json
+{"choice": "Entailment", "spans": [45]}
+```
+ ```json
+{"choice": "Entailment", "spans": [12, 16, 19, 29, 42]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [34, 35, 36]}
+```
+ ```json
+{"choice": "Entailment", "spans": [11]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [19, 20]}
+```
+ ```json
+{"choice": "Entailment", "spans": [23]}
+```
+ ```json
+{"choice": "Entailment", "spans": [27]}
+```
+ ```json
+{"choice": "Entailment", "spans": [12, 15]}
+```
+ ```json
+{"choice": "Entailment", "spans": [19, 20]}
+```
+ ```json
+{"choice": "Entailment", "spans": [19, 22]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [27]}
+```
+ ```json
+{"choice": "Entailment", "spans": [17, 45]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [10]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [42]}
+```
+ ```json
+{"choice": "Entailment", "spans": [10, 14]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [27]}
+```
+ ```json
+{"choice": "Entailment", "spans": [10]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [19]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [19]}
+```
+ ```json
+{"choice": "Entailment", "spans": [10, 15]}
+```
+ ```json
+{"choice": "Entailment", "spans": [10, 12]}
+```
+ ```json
+{"choice": "Entailment", "spans": [19]}
+```
+ ```json
+{"choice": "Entailment", "spans": [18]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [28, 31]}
+```
+ ```json
+{"choice": "Entailment", "spans": [6]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [6]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [57, 58]}
+```
+ ```json
+{"choice": "Entailment", "spans": [21, 25]}
+```
+ ```json
+{"choice": "Entailment", "spans": [29]}
+```
+ ```json
+{"choice": "Entailment", "spans": [6]}
+```
+ ```json
+{"choice": "Entailment", "spans": [55, 59, 60]}
+```
+ ```json
+{"choice": "Entailment", "spans": [15, 12]}
+```
+ ```json
+{"choice": "Entailment", "spans": [27]}
+```
+ ```json
+{"choice": "Entailment", "spans": [26]}
+```
+ ```json
+{"choice": "Entailment", "spans": [21, 24]}
+```
+ ```json
+{"choice": "Entailment", "spans": [12]}
+```
+ ```json
+{"choice": "Entailment", "spans": [8, 28]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 21]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 23, 41]}
+```
+ ```json
+{"choice": "Entailment", "spans": [35]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [14]}
+```
+ ```json
+{"choice": "Entailment", "spans": [6, 11, 12, 13]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [26, 28, 30]}
+```
+ ```json
+{"choice": "Entailment", "spans": [33]}
+```
+ ```json
+{"choice": "Entailment", "spans": [6, 12]}
+```
+ ```json
+{"choice": "Entailment", "spans": [42, 46]}
+```
+ ```json
+{"choice": "Entailment", "spans": [4, 19]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [16, 21]}
+```
+ ```json
+{"choice": "Entailment", "spans": [31, 37, 38]}
+```
+ ```json
+{"choice": "Entailment", "spans": [15, 28, 29]}
+```
+ ```json
+{"choice": "Entailment", "spans": [4, 16, 19]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 20]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [14]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [4]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [35]}
+```
+ ```json
+{"choice": "Entailment", "spans": [8, 12, 27]}
+```
+ ```json
+{"choice": "Entailment", "spans": [33]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [5, 14]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [29]}
+```
+ ```json
+{"choice": "Entailment", "spans": [8, 10]}
+```
+ ```json
+{"choice": "Entailment", "spans": [5, 14]}
+```
+ ```json
+{"choice": "Entailment", "spans": [15]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [13, 67]}
+```
+ ```json
+{"choice": "Entailment", "spans": [65]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [7]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [7]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [8, 12]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [42, 43, 44]}
+```
+ ```json
+{"choice": "Entailment", "spans": [7]}
+```
+ ```json
+{"choice": "Entailment", "spans": [48]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 17, 18, 19]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 24]}
+```
+ ```json
+{"choice": "Entailment", "spans": [29]}
+```
+ ```json
+{"choice": "Entailment", "spans": [8, 10]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 17, 18, 19]}
+```
+ ```json
+{"choice": "Entailment", "spans": [15]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [97, 98]}
+```
+ ```json
+{"choice": "Entailment", "spans": [28, 32]}
+```
+ ```json
+{"choice": "Entailment", "spans": [48, 49, 50, 51, 52]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [100]}
+```
+ ```json
+{"choice": "Entailment", "spans": [18, 21, 113, 114]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [97, 98, 99]}
+```
+ ```json
+{"choice": "Entailment", "spans": [17]}
+```
+ ```json
+{"choice": "Entailment", "spans": [80, 81, 86, 87, 88]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 31]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [37, 38, 39]}
+```
+ ```json
+{"choice": "Entailment", "spans": [18, 22]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 31]}
+```
+ ```json
+{"choice": "Entailment", "spans": [28, 29]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [20]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [8]}
+```
+ ```json
+{"choice": "Entailment", "spans": [28]}
+```
+ ```json
+{"choice": "Entailment", "spans": [9, 13]}
+```
+ ```json
+{"choice": "Entailment", "spans": [27]}
+```
+ ```json
+{"choice": "Entailment", "spans": [8]}
+```
+ ```json
+{"choice": "Entailment", "spans": [49]}
+```
+ ```json
+{"choice": "Entailment", "spans": [15, 18]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [17, 24]}
+```
+ ```json
+{"choice": "Entailment", "spans": [9, 10]}
+```
+ ```json
+{"choice": "Entailment", "spans": [15, 18]}
+```
+ ```json
+{"choice": "Entailment", "spans": [19]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [13]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [7]}
+```
+ ```json
+{"choice": "Entailment", "spans": [7]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [20, 24]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [12, 15]}
+```
+ ```json
+{"choice": "Entailment", "spans": [7]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [10, 12, 13]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [25, 26]}
+```
+ ```json
+{"choice": "Entailment", "spans": [20, 23]}
+```
+ ```json
+{"choice": "Entailment", "spans": [10, 13]}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 18]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [13]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 18, 19]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [11, 14]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [16, 18]}
+```
+ ```json
+{"choice": "Entailment", "spans": [2, 22]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [16, 18]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Contradiction", "spans": [7]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [14]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [3, 5]}
+```
+ ```json
+{"choice": "NotMentioned", "spans": []}
+```
+ ```json
+{"choice": "Entailment", "spans": [56, 57, 58, 59]}
+```
+ ```json
+{"choice": "Entailment", "spans": [19, 38]}
+```
+ ```json
+{"choice": "Entailment", "spans": [20, 25]}
+```
+ ```json
+{"choice": "Contradiction", "spans": [6, 12, 13, 14, 15]}
+```
+ ```json
+{"choice": "Entailment", "spans": [6, 16]}
+```
+ ```json
+{"choice": "Entailment", "spans": [99]}
+```
+ ```json
+{"choice": "Entailment", "spans": [32, 33]}
+```
+ ```json
+{"choice": "Entailment", "spans": [56, 57, 58, 59]}
+```
+ ```json
+{"choice": "Entailment", "spans": [6, 16]}
+```
+ ```json
+{"choice": "Entailment", "spans": [68, 88]}
+```
+ ```json
+{"choice": "Entailment", "spans": [20, 27, 28, 29, 30]}
+```
+ ```json
+{"choice": "Entailment", "spans": [18]}
+```
+ ```json
+{"choice": "Entailment", "spans": [48, 49, 50]}
+```
+ ```json
+{"choice": "Entailment", "spans": [32, 33, 34, 35, 36]}
+```
+ ```json
+{"choice": "Entailment", "spans": [20, 22]}
+```
+ ```json
+{"choice": "Entailment", "spans": [20, 23]}
+```
